@@ -1,25 +1,25 @@
 <template>
-    <div class="container grid grid-cols-2 gap-5 py-20 px-20 ml-10">
+    <div class="container grid grid-cols-2 gap-5 py-20 px-20 ml-10 left-0 right-0">
        <div class="grid grid-cols-2 gap-4 place-content-center">
           <div class="container flex flex-col gap-1">
             <img class="w-5 h-5" src="../assets/simple.png"/>
             <h1 class="text-black text-sm">Simple, Reliable</h1>
-            <h1 class="text-gray-500 text-xs">Quae ab illo inventore <br/> veritatis et quasi.</h1>
+            <p class="text-gray-500 text-xs">Quae ab illo inventore <br/> veritatis et quasi.</p>
           </div>
           <div class="container flex flex-col gap-1">
             <img class="w-5 h-5" src="../assets/Speak.png"/>
             <h1 class="text-black text-sm">Speak Freely</h1>
-            <h1 class="text-gray-500 text-xs">Quae ab illo inventore <br/> veritatis et quasi.</h1>
+            <p class="text-gray-500 text-xs">Quae ab illo inventore <br/> veritatis et quasi.</p>
           </div>
           <div class="container flex flex-col gap-1">
             <img class="w-5 h-5" src="../assets/group.png"/>
             <h1 class="text-black text-sm">Group Chats</h1>
-            <h1 class="text-gray-500 text-xs">Quae ab illo inventore <br/> veritatis et quasi.</h1>
+            <p class="text-gray-500 text-xs">Quae ab illo inventore <br/> veritatis et quasi.</p>
           </div>
           <div class="container flex flex-col gap-1">
             <img class="w-5 h-5" src="../assets/Encrypt.png"/>
             <h1 class="text-black text-sm">Encrypted Messages</h1>
-            <h1 class="text-gray-500 text-xs">Quae ab illo inventore <br/> veritatis et quasi.</h1>
+            <p class="text-gray-500 text-xs">Quae ab illo inventore <br/> veritatis et quasi.</p>
           </div>
        </div>
 

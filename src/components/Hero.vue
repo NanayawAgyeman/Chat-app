@@ -1,6 +1,6 @@
 <template>
     <div class="container grid grid-cols-2 gap-5 py-20 px-20 ml-10 mt-0">
-        <div class="flex flex-col gap-2">
+        <div class="flex flex-col gap-2 py-20">
             <h1 class="text-black text-xl">Modern, online, free <span class="text-green-500">chat</span> 
             and <br/> <span class="text-green-500">contact</span> app</h1>
             <p class="text-gray-500 text-xs mb-3">Maecenas sed ligula ut dui pharetra aliquet. Vestibulum eget orci <br/> libero. 
@@ -23,7 +23,7 @@
             </div>
         </div>
 
-        <div class="bg-green-500 grid grid-cols-2 gap-3 rounded-lg">
+        <div class="container bg-green-500 grid grid-cols-2 gap-3 rounded-lg top-0 right-0">
             <img class="place-items-center py-40" src="../assets/first.png">
             <div class="grid grid-rows-2 gap-2">
                <img src="../assets/top.png"/>

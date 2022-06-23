@@ -6,15 +6,15 @@
           <img class="h-4 w-4" src="../assets/Icon.png">
           <h1 class="text-black text-sm">yourlogo</h1>
         </div>
-        <p class="text-black leading-loose tracking-wide w-full md:w-[80%] text-md">Morbi convallis bibendum urna ut viverra. Maecenas quis consequat libero, a feugiat eros. Nunc ut lacinia tortor morbi ultricies laoreet ullamcorper.</p>
+        <p class="text-gray-500 leading-loose tracking-wide w-full md:w-[80%] text-md">Morbi convallis bibendum urna ut viverra. Maecenas quis consequat libero, a feugiat eros. Nunc ut lacinia tortor morbi ultricies laoreet ullamcorper.</p>
         <div class="flex justify-end md:justify-start -mt-7 md:mt-3">
           <img class="w-12 md:-translate-x-10 scale-x-[-1] md:scale-100" src="../assets/images/footer2-img.webp" alt="">
         </div>
       </div>
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 justify-center gap-12 text-black">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 justify-center gap-12 ">
         <div>
-          <h3 class="mb-4 font-bold text-sm">Helpful Links</h3>
-          <div class="flex flex-col gap-3 text-sm">
+          <h3 class="mb-4 font-bold text-sm text-black">Helpful Links</h3>
+          <div class="flex flex-col gap-3 text-sm text-gray-500">
             <a class="hover:underline">About Us</a>
             <a class="hover:underline">Features</a>
             <a class="hover:underline">FAQ's</a>
@@ -23,8 +23,8 @@
           </div>
         </div>
         <div>
-          <h3 class="mb-4 font-bold text-sm">Services</h3>
-          <div class="flex flex-col gap-3 text-sm">
+          <h3 class="mb-4 font-bold text-sm text-black">Services</h3>
+          <div class="flex flex-col gap-3 text-sm text-gray-500">
             <a class="hover:underline">Worldwide</a>
             <a class="hover:underline">Scalable</a>
             <a class="hover:underline">Modular</a>
@@ -33,8 +33,8 @@
           </div>
         </div>
         <div>
-          <h3 class="mb-4 font-bold text-sm">Contact Us</h3>
-          <div class="flex flex-col gap-3 text-sm">
+          <h3 class="mb-4 font-bold text-sm text-black">Contact Us</h3>
+          <div class="flex flex-col gap-3 text-sm text-gray-500">
             <a class="hover:underline">455 West Orchard Street Kings Mountain, NC 28086</a>
             <a class="hover:underline">Phone: (272) 211-7370</a>
             <a class="hover:underline">E-Mail: support@brand.com</a>
@@ -46,9 +46,10 @@
     <hr/>
 
     <div>
-      <p class="container drop-shadow-lg text-sm text-center text-black mt-4 mb-4 tracking-wider">
+      <p class="container drop-shadow-lg text-sm text-center text-gray-500 mt-4 mb-4 tracking-wider">
         &copy; 2020 YourSite. All rights reserved.
       </p>
     </div>
   </footer>
 </template>
+
