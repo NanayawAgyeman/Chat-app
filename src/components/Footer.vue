@@ -13,7 +13,7 @@
       </div>
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 justify-center gap-12 ">
         <div>
-          <h3 class="mb-4 font-bold text-sm text-black">Helpful Links</h3>
+          <h3 class="mb-4 text-md text-black">Helpful Links</h3>
           <div class="flex flex-col gap-3 text-sm text-gray-500">
             <a class="hover:underline">About Us</a>
             <a class="hover:underline">Features</a>
@@ -23,7 +23,7 @@
           </div>
         </div>
         <div>
-          <h3 class="mb-4 font-bold text-sm text-black">Services</h3>
+          <h3 class="mb-4 text-md text-black">Services</h3>
           <div class="flex flex-col gap-3 text-sm text-gray-500">
             <a class="hover:underline">Worldwide</a>
             <a class="hover:underline">Scalable</a>
@@ -33,7 +33,7 @@
           </div>
         </div>
         <div>
-          <h3 class="mb-4 font-bold text-sm text-black">Contact Us</h3>
+          <h3 class="mb-4 text-md text-black">Contact Us</h3>
           <div class="flex flex-col gap-3 text-sm text-gray-500">
             <a class="hover:underline">455 West Orchard Street Kings Mountain, NC 28086</a>
             <a class="hover:underline">Phone: (272) 211-7370</a>

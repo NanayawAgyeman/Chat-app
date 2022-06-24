@@ -1,23 +1,24 @@
 <template>
-    <div class="container my-32 pb-2 pl-32">
+    <div class="container  py-20 flex flex-col items-center space-y-10">
         <div>
-          <h2 class="text-4xl sm:text-5xl md:text-6xl text-black mb-4 mt-5 md:mt-0">Download App</h2>
-          <p class="text-base md:text-lg text-black md:w-full">Fusce placerat pretium mauris, vel sollicitudin elit lacinia vitae. Quisque sit amet nisi erat.</p>
+          <h2 class="text-4xl text-black text-center mb-3">Download App</h2>
+          <p class="text-xl text-gray-500 text-center">Fusce placerat pretium mauris, vel sollicitudin elit <br/> lacinia 
+          vitae. Quisque sit amet nisi erat.</p>
         </div>
        
-        <div class="h-16 md:h-20 w-full md:w-1/2 flex items-center gap-3">
-          <button class="p-2 text-sm md:text-base text-white bg-green-400 rounded-full flex flex-row gap-3">
-            <img class="relative" src="../assets/apple.png"/>
+        <div class="flex items-center space-x-2">
+          <button class="p-2 text-white bg-green-400 w-40 rounded-full flex flex-row space-x-2">
+            <img class="ml-2 mt-3" src="../assets/apple.png"/>
             <div class="flex flex-col">
                 <a class="text-xs text-left">Download on the</a>
-                <a>App Store</a>
+                <a class="text-md text-left">App Store</a>
             </div>           
           </button>
-          <button class="p-2 text-sm text-white bg-green-400 rounded-full flex flex-row gap-2">
-            <img class="" src="../assets/google.png"/>
+          <button class="p-2 text-white bg-green-400 w-40 rounded-full flex flex-row space-x-2">
+            <img class="ml-2 mt-3" src="../assets/google.png"/>
             <div class="flex flex-col">
                 <a class="text-xs text-left">Get it on</a>
-                <a>Google Play</a>
+                <a class="text-md text-left">Google Play</a>
             </div>
           </button>
         </div>  
