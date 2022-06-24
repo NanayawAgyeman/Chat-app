@@ -9,7 +9,7 @@ import Blog from "./components/Blog.vue";
 </script>
 
 <template>
-  <div class="container bg-gray-95 flex flex-col gap-1">
+  <div class="w-screen bg-white">
     <Navbar />
     <Hero />
     <About />
