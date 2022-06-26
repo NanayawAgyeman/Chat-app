@@ -1,5 +1,5 @@
 <template>
-    <div class="container grid grid-cols-2 place-items-center gap-5 py-32">
+    <div class="container w-full grid grid-cols-2 place-items-center gap-5 py-32">
         <div class="flex flex-col gap-6 py-20">
             <h1 class="text-title text-4xl">Modern, online, free <span class="text-solid">chat</span> 
             and <br/> <span class="text-solid">contact</span> app</h1>
@@ -23,9 +23,9 @@
             </div>
         </div>
 
-        <div class="container bg-hero grid grid-cols-2 gap-3 rounded-2xl top-0 right-0">
-            <img class="place-items-center py-40" src="../assets/first.png">
-            <div class="grid grid-rows-2 gap-2">
+        <div class="grid grid-cols-2 gap-3">
+            <img class="place-items-center py-64" src="../assets/first.png">
+            <div class="grid grid-rows-2 gap-3">
                <img src="../assets/top.png"/>
                <img src="../assets/down.png"/>
             </div>

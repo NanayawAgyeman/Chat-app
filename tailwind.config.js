@@ -3,6 +3,9 @@ module.exports = {
   content: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
   theme: {
     extend: {
+      backgroundImage: {
+        'hero-bg': "url('/assets/Rectangle.png')",
+      },
       colors: {
         solid: "#4EBC84",
         light: "#E8FAF6",

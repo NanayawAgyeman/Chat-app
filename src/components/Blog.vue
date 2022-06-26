@@ -7,7 +7,7 @@
             elit lacinia <br/> vitae. Quisque sit amet nisi erat.</p>
         </div>
 
-        <div class="grid grid-cols-2 place-contents-center gap-2 px-48">
+        <div class="grid grid-cols-2 place-contents-center gap-8 px-48">
             <div class="grid grid-cols-2">
                 <div class="flex flex-col gap-2">
                     <h1 class="text-title text-lg">Do millennials care about <br/> saving?</h1>

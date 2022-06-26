@@ -13,11 +13,11 @@
           bg-primary-200 pt-5 pb-10 px-5 lg:p-0
           transition duration-500 lg:duration-200 lg:-translate-y-0
         ">
-        <a class="text-para text-sm">Home</a>
-        <a class="text-para text-sm">Pages</a>
-        <a class="text-para text-sm">Blog</a>
-        <a class="text-para text-sm">Demos</a>
-        <a class="text-para text-sm">Docs</a>
+        <a class="text-para text-sm">Home <font-awesome-icon icon="angle-down"/></a>
+        <a class="text-para text-sm">Pages <font-awesome-icon icon="angle-down"/></a>
+        <a class="text-para text-sm">Blog <font-awesome-icon icon="angle-down"/></a>
+        <a class="text-para text-sm">Demos <font-awesome-icon icon="angle-down"/></a>
+        <a class="text-para text-sm">Docs <font-awesome-icon icon="angle-down"/></a>
         <button class="bg-solid hover:bg-green-700 duration-300 text-sm text-white rounded py-0.5 px-2">Buy Now</button>
       </div>
     </div>

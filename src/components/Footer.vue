@@ -15,21 +15,21 @@
         <div>
           <h3 class="mb-4 text-md text-title">Helpful Links</h3>
           <div class="flex flex-col gap-3 text-sm text-para">
-            <a class="hover:underline">About Us</a>
-            <a class="hover:underline">Features</a>
-            <a class="hover:underline">FAQ's</a>
-            <a class="hover:underline">Blog</a>
-            <a class="hover:underline">Contact</a>
+            <a class="hover:underline"><font-awesome-icon icon="angle-right"/> About Us</a>
+            <a class="hover:underline"><font-awesome-icon icon="angle-right"/> Features</a>
+            <a class="hover:underline"><font-awesome-icon icon="angle-right"/> FAQ's</a>
+            <a class="hover:underline"><font-awesome-icon icon="angle-right"/> Blog</a>
+            <a class="hover:underline"><font-awesome-icon icon="angle-right"/> Contact</a>
           </div>
         </div>
         <div>
           <h3 class="mb-4 text-md text-title">Services</h3>
           <div class="flex flex-col gap-3 text-sm text-para">
-            <a class="hover:underline">Worldwide</a>
-            <a class="hover:underline">Scalable</a>
-            <a class="hover:underline">Modular</a>
-            <a class="hover:underline">Connectivity</a>
-            <a class="hover:underline">Corporate</a>
+            <a class="hover:underline"><font-awesome-icon icon="angle-right"/> Worldwide</a>
+            <a class="hover:underline"><font-awesome-icon icon="angle-right"/> Scalable</a>
+            <a class="hover:underline"><font-awesome-icon icon="angle-right"/> Modular</a>
+            <a class="hover:underline"><font-awesome-icon icon="angle-right"/> Connectivity</a>
+            <a class="hover:underline"><font-awesome-icon icon="angle-right"/> Corporate</a>
           </div>
         </div>
         <div>
