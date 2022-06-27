@@ -1,5 +1,5 @@
 <template>
-    <div class="container w-full grid grid-cols-2 place-items-center gap-5 py-32">
+    <div class="w-full grid grid-cols-2 place-items-center gap-5 py-32">
         <div class="flex flex-col gap-6 py-20">
             <h1 class="text-title text-4xl">Modern, online, free <span class="text-solid">chat</span> 
             and <br/> <span class="text-solid">contact</span> app</h1>

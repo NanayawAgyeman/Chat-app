@@ -1,9 +1,9 @@
 <template>
-  <nav class="w-full bg-white z-20 transition duration-200 drop-shadow-md py-2 h-18"> 
+  <nav class="fixed w-full bg-white transition duration-200 drop-shadow-md h-20 pt-5"> 
     <div class="container flex flex-row items-center justify-between h-19.5">
       <div class="left-10 relative z-30 flex items-center gap-2 mb-2 lg:mb-0">
-        <img class="h-4 w-4" src="../assets/Icon.png">
-        <h1 class="text-head text-sm">yourlogo</h1>
+        <img class="h-7 w-6" src="../assets/Icon.png">
+        <h1 class="text-head text-xl">yourlogo</h1>
       </div>
 
       <div
@@ -13,12 +13,12 @@
           bg-primary-200 pt-5 pb-10 px-5 lg:p-0
           transition duration-500 lg:duration-200 lg:-translate-y-0
         ">
-        <a class="text-para text-sm">Home <font-awesome-icon icon="angle-down"/></a>
-        <a class="text-para text-sm">Pages <font-awesome-icon icon="angle-down"/></a>
-        <a class="text-para text-sm">Blog <font-awesome-icon icon="angle-down"/></a>
-        <a class="text-para text-sm">Demos <font-awesome-icon icon="angle-down"/></a>
-        <a class="text-para text-sm">Docs <font-awesome-icon icon="angle-down"/></a>
-        <button class="bg-solid hover:bg-green-700 duration-300 text-sm text-white rounded py-0.5 px-2">Buy Now</button>
+        <a class="text-para text-md">Home <font-awesome-icon icon="angle-down"/></a>
+        <a class="text-para text-md">Pages <font-awesome-icon icon="angle-down"/></a>
+        <a class="text-para text-md">Blog <font-awesome-icon icon="angle-down"/></a>
+        <a class="text-para text-md">Demos <font-awesome-icon icon="angle-down"/></a>
+        <a class="text-para text-md">Docs <font-awesome-icon icon="angle-down"/></a>
+        <button class="bg-solid hover:bg-green-700 duration-300 text-md text-white rounded py-1 px-2">Buy Now</button>
       </div>
     </div>
   </nav>
