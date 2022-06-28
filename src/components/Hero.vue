@@ -22,13 +22,16 @@
                 </button>
             </div>
         </div>
-
-        <div class="grid grid-cols-2 gap-3">
-            <img class="place-items-center py-64" src="../assets/first.png">
-            <div class="grid grid-rows-2 gap-3">
-               <img src="../assets/top.png"/>
-               <img src="../assets/down.png"/>
+         
+        <div> 
+            <div class="z-10 bg-transparent grid grid-cols-2 gap-3 ml-16">
+                <img class="place-items-center py-64" src="../assets/first.png">
+                <div class="grid grid-rows-2 gap-3">
+                    <img src="../assets/top.png"/>
+                    <img src="../assets/down.png"/>
+                </div>
             </div>
+            <div class="z-0 bg-hero h-screen w-100 -mt-120 -mr-100 ml-48 rounded-bl-3xl"></div>     
         </div>
     </div>
 </template>

@@ -3,8 +3,15 @@ module.exports = {
   content: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
   theme: {
     extend: {
-      backgroundImage: {
-        'hero-bg': "url('/assets/Rectangle.png')",
+      height:{
+        '130' : "600px"
+      },
+      width:{
+        '100': "500px",
+      },
+      margin: {
+        '120': "800px",
+        '110': "400px",
       },
       colors: {
         solid: "#4EBC84",
@@ -16,6 +23,7 @@ module.exports = {
         blog: "#D8D8D8",
         lit: "#EDF3FF",
         hero: "#57D382",
+        paralax: "#979797",
       },
     },
   },

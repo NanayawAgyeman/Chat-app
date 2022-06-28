@@ -18,8 +18,8 @@
                         <h1 class="text-title text-sm justify-center">Rodney Artichoke</h1>
                     </div>
                 </div>
-                <div class="bg-blog h-full rounded-r">
-                    <button class="bg-gray-500 text-white rounded ">July 15</button>
+                <div class="relative bg-blog h-full rounded-r">
+                    <button class="absolute top-3 right-3 bg-gray-400 text-white rounded px-2 py-1">July 15</button>
                 </div>         
             </div>
             <div class="grid grid-cols-2">
@@ -32,8 +32,8 @@
                         <h1 class="text-title text-sm justify-center">Eric Widget</h1>
                     </div>
                 </div>
-                <div class="bg-blog h-full rounded-r">
-                    <button class="bg-gray-500 text-white rounded">July 15</button>
+                <div class="relative bg-blog h-full rounded-r">
+                    <button class="absolute top-3 right-3 bg-gray-400 text-white rounded px-2 py-1">July 15</button>
                 </div>         
             </div>
         </div>
