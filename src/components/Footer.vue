@@ -25,11 +25,11 @@
         <div>
           <h3 class="mb-4 text-md text-title">Services</h3>
           <div class="flex flex-col gap-3 text-sm text-para">
-            <a class="hover:underline"><font-awesome-icon icon="angle-right"/> Worldwide</a>
-            <a class="hover:underline"><font-awesome-icon icon="angle-right"/> Scalable</a>
-            <a class="hover:underline"><font-awesome-icon icon="angle-right"/> Modular</a>
-            <a class="hover:underline"><font-awesome-icon icon="angle-right"/> Connectivity</a>
-            <a class="hover:underline"><font-awesome-icon icon="angle-right"/> Corporate</a>
+            <a class="hover:underline"><font-awesome-icon :icon="['fas', 'angle-right']"/> Worldwide</a>
+            <a class="hover:underline"><font-awesome-icon :icon="['fas', 'angle-right']"/> Scalable</a>
+            <a class="hover:underline"><font-awesome-icon :icon="['fas', 'angle-right']"/> Modular</a>
+            <a class="hover:underline"><font-awesome-icon :icon="['fas', 'angle-right']"/> Connectivity</a>
+            <a class="hover:underline"><font-awesome-icon :icon="['fas', 'angle-right']"/> Corporate</a>
           </div>
         </div>
         <div>
