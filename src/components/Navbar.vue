@@ -1,5 +1,5 @@
 <template>
-  <nav class="fixed w-full bg-white transition duration-200 drop-shadow-md h-16 pt-3"> 
+  <nav class="w-full bg-white transition duration-200 drop-shadow-md h-16 pt-3"> 
     <div class="container flex flex-row items-center justify-between h-19.5">
       <div class="left-10 relative z-30 flex items-center gap-2 mb-2 lg:mb-0">
         <img class="h-7 w-6" src="../assets/Icon.png">
