@@ -7,9 +7,6 @@
           <h1 class="text-head text-sm">yourlogo</h1>
         </div>
         <p class="text-para leading-loose tracking-wide w-full md:w-[80%] text-md">Morbi convallis bibendum urna ut viverra. Maecenas quis consequat libero, a feugiat eros. Nunc ut lacinia tortor morbi ultricies laoreet ullamcorper.</p>
-        <div class="flex justify-end md:justify-start -mt-7 md:mt-3">
-          <img class="w-12 md:-translate-x-10 scale-x-[-1] md:scale-100" src="../assets/images/footer2-img.webp" alt="">
-        </div>
       </div>
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 justify-center gap-12 ">
         <div>
